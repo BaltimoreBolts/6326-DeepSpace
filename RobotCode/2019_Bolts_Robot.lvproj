@@ -110,9 +110,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Cargo_motor_states.ctl" Type="VI" URL="../Cargo_motor_states.ctl"/>
 			<Item Name="Deadzone.vi" Type="VI" URL="../../Dashboard/Deadzone.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
-			<Item Name="getDesiredDorsalVal.vi" Type="VI" URL="../../Dashboard/getDesiredDorsalVal.vi"/>
-			<Item Name="getDesiredForbarVal.vi" Type="VI" URL="../../Dashboard/getDesiredForbarVal.vi"/>
-			<Item Name="GP_states.ctl" Type="VI" URL="../GP_states.ctl"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
