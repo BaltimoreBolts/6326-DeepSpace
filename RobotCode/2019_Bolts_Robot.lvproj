@@ -108,6 +108,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Cargo_motor_states.ctl" Type="VI" URL="../Cargo_motor_states.ctl"/>
+			<Item Name="control_states.ctl" Type="VI" URL="../control_states.ctl"/>
 			<Item Name="Deadzone.vi" Type="VI" URL="../../Dashboard/Deadzone.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 			<Item Name="GP_actions.ctl" Type="VI" URL="../GP_actions.ctl"/>
